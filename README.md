@@ -10,8 +10,9 @@
 
 jika kamu ingin mengganti app playstore yang mau di review silahkan, rubah app packagenya, 
 app_package = 'com.zhiliaoapp.musically'
+## cara mengeceknya 
 
-cara mengeceknya 
+
 <img src="https://cdn.techmesto.com/wp-content/uploads/2018/05/Play-Store-package-name.jpg" width="50%" height="50%"/>
 
 
