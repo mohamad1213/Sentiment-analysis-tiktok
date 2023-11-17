@@ -7,6 +7,7 @@
 2. Kemudian install package python ``py -m pip install app-store-scraper, google-play-scraper, textblob, nltk``
 3. jalankan dengan tulis di terminal
  ``py sentiment-tiktok.py``
+4. hasilnya akan berbentuk file csv
 
 jika kamu ingin mengganti app playstore yang mau di review silahkan, rubah app packagenya, 
 app_package = 'com.zhiliaoapp.musically'
